@@ -1,0 +1,10 @@
+#### General Dependencies
+matplotlib==3.10.3 # nice plots.
+numpy==1.26.4 # Powerful n-dimensional arrays and numerical computing tools
+pandas==2.3.0 # data analysis and manipulation tool
+pip # Python's package-management system
+scikit-learn==1.7.0 # machine learning library
+scipy==1.15.3 # scientific/technical computing library
+seaborn==0.13.2 # beautiful plots
+nbconvert==7.16.6
+
